@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace ExamManagementSystem.Controllers
+namespace OnlineExamSystem.Controllers
 {
     public class HomeController : Controller
     {

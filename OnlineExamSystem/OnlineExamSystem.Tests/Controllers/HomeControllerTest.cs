@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ExamManagementSystem;
-using ExamManagementSystem.Controllers;
+using OnlineExamSystem;
+using OnlineExamSystem.Controllers;
 
-namespace ExamManagementSystem.Tests.Controllers
+namespace OnlineExamSystem.Tests.Controllers
 {
     [TestClass]
     public class HomeControllerTest

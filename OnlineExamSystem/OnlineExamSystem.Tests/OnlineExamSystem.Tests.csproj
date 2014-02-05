@@ -6,11 +6,11 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{690575E8-7079-4500-B765-63212F47C7AC}</ProjectGuid>
+    <ProjectGuid>{CED27AA1-F512-4F6A-A3D6-778ABCD51024}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExamManagementSystem.Tests</RootNamespace>
-    <AssemblyName>ExamManagementSystem.Tests</AssemblyName>
+    <RootNamespace>OnlineExamSystem.Tests</RootNamespace>
+    <AssemblyName>OnlineExamSystem.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -92,9 +92,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ExamManagementSystem\ExamManagementSystem.csproj">
-      <Project>{4032C293-7979-42FC-A063-84E69B37B16A}</Project>
-      <Name>ExamManagementSystem</Name>
+    <ProjectReference Include="..\OnlineExamSystem\OnlineExamSystem.csproj">
+      <Project>{2A34D496-7038-4B43-BA3B-791131D04A3E}</Project>
+      <Name>OnlineExamSystem</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
