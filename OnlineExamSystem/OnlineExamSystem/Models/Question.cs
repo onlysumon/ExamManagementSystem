@@ -9,7 +9,7 @@ namespace OnlineExamSystem.Models
     {
         public int QuestionId { get; set; }
         public string Name { get; set; }
-        public string? ImageUrl { get; set; }
+        public string ImageUrl { get; set; }
         public bool Type { get; set; }
         public int Marks { get; set; }
         public int Duration { get; set; }

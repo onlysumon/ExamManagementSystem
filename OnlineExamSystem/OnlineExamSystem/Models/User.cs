@@ -16,7 +16,7 @@ namespace OnlineExamSystem.Models
         public string Address { get; set; }
         public string LoginName { get; set; }
         public string LoginPassword { get; set; }
-        public string? PhotoUrl { get; set; }
+        public string PhotoUrl { get; set; }
 
         public virtual IList<Course> Courses { get; set; }
     }
