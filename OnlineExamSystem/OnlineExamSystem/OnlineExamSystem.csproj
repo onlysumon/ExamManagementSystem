@@ -130,6 +130,7 @@
     <Compile Include="Models\ExamQuestion.cs" />
     <Compile Include="Models\Option.cs" />
     <Compile Include="Models\Question.cs" />
+    <Compile Include="Models\StudentCourse.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

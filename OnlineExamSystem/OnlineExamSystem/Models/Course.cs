@@ -14,5 +14,6 @@ namespace OnlineExamSystem.Models
 
         public virtual User User { get; set; }
         public virtual IList<Question> Questions { get; set; }
+        public virtual IList<Exam> Exams { get; set; }
     }
 }

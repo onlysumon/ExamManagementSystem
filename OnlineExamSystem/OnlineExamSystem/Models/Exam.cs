@@ -15,5 +15,8 @@ namespace OnlineExamSystem.Models
         public int CourseId { get; set; }
 
         public virtual Course Course { get; set; }
+        public virtual IList<ExamQuestion> ExamQuestions { get; set; }
+        public virtual IList<ExamAnswer> ExamAnswers { get; set; }
+        public virtual IList<ExamMark> ExamMarks { get; set; }
     }
 }
